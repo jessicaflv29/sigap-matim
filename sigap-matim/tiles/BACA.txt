@@ -1,1 +1,0 @@
-Taruh folder tile XYZ hasil QGIS di sini, misal tiles/s2_sebelum/{z}/{x}/{y}.png
