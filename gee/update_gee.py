@@ -1,7 +1,7 @@
 """
 Pembaruan otomatis hasil Google Earth Engine untuk WebGIS pascagempa Manggarai Timur.
 
-Dijalankan oleh GitHub Actions (.github/workflows/gee-update.yml) secara terjadwal,
+Dijalankan oleh GitHub Actions (.github/workflows/update-gee.yml) secara terjadwal,
 atau manual di laptop:  python gee/update_gee.py
 
 Keluaran:
@@ -13,13 +13,17 @@ masuk ke katalog GEE otomatis ikut terpakai.
 
 Kredensial:
   - GitHub Actions: secret GEE_SERVICE_ACCOUNT_KEY (isi file JSON kunci service account)
-                    dan GEE_PROJECT (ID Google Cloud project yang terdaftar di Earth Engine)
-  - Laptop: jalankan `earthengine authenticate` sekali, lalu set GEE_PROJECT.
+                    dan GEE_PROJECT (ID Google Cloud project yang terdaftar di Earth Engine).
+                    Jika GEE_PROJECT kosong, project_id dari file kunci yang dipakai.
+  - Laptop: jalankan `earthengine authenticate` sekali, lalu set GEE_PROJECT:
+      PowerShell : $env:GEE_PROJECT="ee-jessicaflavindetadwik"
+      CMD        : set GEE_PROJECT=ee-jessicaflavindetadwik
 """
 import datetime as dt
 import json
 import os
 import pathlib
+import sys
 
 import ee
 
@@ -30,22 +34,27 @@ DATA = ROOT / "data"
 TGL_GEMPA = "2026-08-15"
 SEBELUM = ("2026-05-01", "2026-08-14")
 SESUDAH_MULAI = "2026-08-16"
-AMBANG_DNDVI = -0.15   # penurunan NDVI dianggap "vegetasi hilang"
+AMBANG_DNDVI = -0.15    # penurunan NDVI dianggap "vegetasi hilang"
 AMBANG_NDVI_AWAL = 0.3  # hanya piksel yang sebelumnya bervegetasi
-AMBANG_SAR_DB = 3.0    # |log-ratio VV| dianggap "berubah"
-CS_THRESHOLD = 0.6     # Cloud Score+ (0.5–0.65)
+AMBANG_SAR_DB = 3.0     # |log-ratio VV| dianggap "berubah"
+CS_THRESHOLD = 0.6      # Cloud Score+ (0.5–0.65)
 ORBIT_PASS = "DESCENDING"
 
 
 def init():
-    project = os.environ.get("GEE_PROJECT")
-    key = os.environ.get("GEE_SERVICE_ACCOUNT_KEY")
+    project = (os.environ.get("GEE_PROJECT") or "").strip() or None
+    key = (os.environ.get("GEE_SERVICE_ACCOUNT_KEY") or "").strip()
     if key:
         info = json.loads(key)
+        project = project or info.get("project_id")
         creds = ee.ServiceAccountCredentials(info["client_email"], key_data=key)
         ee.Initialize(creds, project=project)
+        print("Login service account:", info["client_email"], "| project:", project)
     else:
+        if not project:
+            sys.exit("GEE_PROJECT belum di-set. Lihat docstring di awal file ini.")
         ee.Initialize(project=project)
+        print("Login akun pribadi | project:", project)
 
 
 def main():
@@ -56,7 +65,8 @@ def main():
     batas_gj = json.loads((DATA / "batas_kecamatan.geojson").read_text(encoding="utf-8"))
     feats = [ee.Feature(f["geometry"], {"kecamatan": f["properties"].get("NAMOBJ")}) for f in batas_gj["features"]]
     kec = ee.FeatureCollection(feats)
-    aoi = kec.geometry().bounds()
+    geom = kec.geometry()
+    aoi = geom.bounds()
 
     # ---------- Sentinel-2 + Cloud Score+ ----------
     cs = ee.ImageCollection("GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED")
@@ -67,23 +77,43 @@ def main():
                .linkCollection(cs, ["cs_cdf"])
                .map(lambda i: i.updateMask(i.select("cs_cdf").gte(CS_THRESHOLD))
                     .select(["B2", "B3", "B4", "B8"]).divide(10000)))
-        return col.median().clip(kec.geometry()), col.size()
+        return col.median().clip(geom), col.size().getInfo()
 
     s2_pre, n_pre = s2_median(SEBELUM)
     s2_post, n_post = s2_median(sesudah)
+    print(f"Scene S2: sebelum={n_pre}, sesudah={n_post}")
+    if n_pre == 0 or n_post == 0:
+        sys.exit("Tidak ada scene Sentinel-2 pada salah satu periode. Periksa tanggal/AOI.")
+
     ndvi_pre = s2_pre.normalizedDifference(["B8", "B4"])
     ndvi_post = s2_post.normalizedDifference(["B8", "B4"])
     dndvi = ndvi_post.subtract(ndvi_pre).rename("dndvi")
 
     # ---------- Sentinel-1 log-ratio ----------
-    def s1(rng):
-        return (ee.ImageCollection("COPERNICUS/S1_GRD").filterBounds(aoi).filterDate(rng[0], rng[1])
-                .filter(ee.Filter.eq("instrumentMode", "IW"))
-                .filter(ee.Filter.listContains("transmitterReceiverPolarisation", "VV"))
-                .filter(ee.Filter.eq("orbitProperties_pass", ORBIT_PASS))
-                .select("VV").mean().focalMedian(30, "circle", "meters"))
+    def s1_col(rng, orbit):
+        col = (ee.ImageCollection("COPERNICUS/S1_GRD").filterBounds(aoi).filterDate(rng[0], rng[1])
+               .filter(ee.Filter.eq("instrumentMode", "IW"))
+               .filter(ee.Filter.listContains("transmitterReceiverPolarisation", "VV")))
+        if orbit:
+            col = col.filter(ee.Filter.eq("orbitProperties_pass", orbit))
+        return col.select("VV")
 
-    logratio = s1(sesudah).subtract(s1(SEBELUM)).rename("lr").clip(kec.geometry())
+    orbit = ORBIT_PASS
+    n_s1_pre = s1_col(SEBELUM, orbit).size().getInfo()
+    n_s1_post = s1_col(sesudah, orbit).size().getInfo()
+    if n_s1_pre == 0 or n_s1_post == 0:
+        print(f"Peringatan: scene S1 {orbit} kosong di salah satu periode; memakai semua orbit.")
+        orbit = None
+        n_s1_pre = s1_col(SEBELUM, orbit).size().getInfo()
+        n_s1_post = s1_col(sesudah, orbit).size().getInfo()
+    print(f"Scene S1 ({orbit or 'ASC+DESC'}): sebelum={n_s1_pre}, sesudah={n_s1_post}")
+    if n_s1_pre == 0 or n_s1_post == 0:
+        sys.exit("Tidak ada scene Sentinel-1 pada salah satu periode.")
+
+    def s1(rng):
+        return s1_col(rng, orbit).mean().focalMedian(30, "circle", "meters")
+
+    logratio = s1(sesudah).subtract(s1(SEBELUM)).rename("lr").clip(geom)
 
     # ---------- Tile URL ----------
     vis_rgb = {"bands": ["B4", "B3", "B2"], "min": 0.02, "max": 0.18, "gamma": 1.2}
@@ -141,13 +171,15 @@ def main():
         "diperbarui": layers["diperbarui"],
         "metode": {"sebelum": f"{SEBELUM[0]}/{SEBELUM[1]}", "sesudah": f"{sesudah[0]}/{sesudah[1]}",
                    "ambang_dndvi": AMBANG_DNDVI, "ambang_sar_db": AMBANG_SAR_DB,
-                   "scene_s2_sebelum": n_pre.getInfo(), "scene_s2_sesudah": n_post.getInfo()},
+                   "scene_s2_sebelum": n_pre, "scene_s2_sesudah": n_post,
+                   "orbit_s1": orbit or "ASC+DESC",
+                   "scene_s1_sebelum": n_s1_pre, "scene_s1_sesudah": n_s1_post},
         "kecamatan": rows,
     }
 
     (DATA / "gee_layers.json").write_text(json.dumps(layers, ensure_ascii=False, indent=1), encoding="utf-8")
     (DATA / "gee_stats.json").write_text(json.dumps(stats, ensure_ascii=False, indent=1), encoding="utf-8")
-    print("Selesai:", len(rows), "kecamatan; scene S2", stats["metode"]["scene_s2_sebelum"], "/", stats["metode"]["scene_s2_sesudah"])
+    print("Selesai:", len(rows), "kecamatan; scene S2", n_pre, "/", n_post)
 
 
 if __name__ == "__main__":
