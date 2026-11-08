@@ -1,0 +1,11 @@
+id,nama,jenis,kecamatan,lon,lat,kapasitas,kontak,kebutuhan,status,diperbarui
+P01,Posko Utama Kabupaten,Posko utama,Borong,120.675,-8.805,1200,081200000001,Obat-obatan,Aktif,2026-10-30
+P02,Posko Kecamatan Kota Komba,Posko kecamatan,Kota Komba,120.815,-8.765,450,,Obat-obatan,Aktif,2026-10-30
+P03,Posko Elar,Posko kecamatan,Elar,120.865,-8.455,380,,Obat-obatan,Aktif,2026-10-30
+P04,Posko Sambi Rampas,Posko kecamatan,Sambi Rampas,120.775,-8.392,520,,Obat-obatan,Aktif,2026-10-30
+P05,Dapur Umum Lamba Leda,Dapur umum,Lamba Leda,120.552,-8.462,0,,,Aktif,2026-10-30
+P06,Puskesmas (contoh) Elar Selatan,Fasilitas kesehatan,Elar Selatan,120.868,-8.598,0,,,Aktif,2026-10-30
+P07,Titik Kumpul Lapangan Congkar,Titik kumpul,Congkar,120.702,-8.465,300,,"Selimut, makanan bayi",Aktif,2026-10-30
+P08,Posko Rana Mese,Posko kecamatan,Rana Mese,120.572,-8.662,260,,"Air bersih, terpal",Aktif,2026-10-30
+P09,Posko Kota Komba Utara,Posko desa,Kota Komba Utara,120.776,-8.672,140,,Obat-obatan,Aktif,2026-10-30
+P10,Puskesmas (contoh) Borong,Fasilitas kesehatan,Borong,120.69,-8.79,0,,"Selimut, makanan bayi",Aktif,2026-10-30

@@ -1,0 +1,409 @@
+id,lat,lon,kecamatan,desa,tipe,konstruksi,kelas,sumber,tanggal,foto_url,catatan
+B0001,-8.77231,120.70165,Borong,Desa contoh B,Rumah tinggal,Beton bertulang,RS,Foto UAV,2026-08-29,,DATA CONTOH
+B0002,-8.78657,120.67632,Borong,Desa contoh C,Rumah tinggal,Kayu,RB,Verifikasi BNPB,2026-08-30,,DATA CONTOH
+B0003,-8.78807,120.6831,Borong,Desa contoh D,Kantor desa,Pasangan bata terkekang,RS,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0004,-8.76017,120.66164,Borong,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0005,-8.79429,120.66,Borong,Desa contoh F,Sekolah,Kayu,TR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0006,-8.79931,120.70784,Borong,Desa contoh A,Fasilitas kesehatan,Kayu,TR,Foto UAV,2026-08-25,,DATA CONTOH
+B0007,-8.83178,120.69627,Borong,Desa contoh B,Kantor desa,Beton bertulang,RR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0008,-8.78816,120.66223,Borong,Desa contoh C,Rumah tinggal,Beton bertulang,RB,Foto UAV,2026-08-19,,DATA CONTOH
+B0009,-8.78822,120.66209,Borong,Desa contoh D,Fasilitas kesehatan,Pasangan bata terkekang,RR,Foto UAV,2026-08-27,,DATA CONTOH
+B0010,-8.76227,120.65694,Borong,Desa contoh E,Fasilitas kesehatan,Beton bertulang,TR,Foto UAV,2026-08-20,,DATA CONTOH
+B0011,-8.77326,120.67455,Borong,Desa contoh F,Fasilitas kesehatan,Beton bertulang,RR,Verifikasi BNPB,2026-08-20,,DATA CONTOH
+B0012,-8.79161,120.68754,Borong,Desa contoh A,Fasilitas kesehatan,Beton bertulang,RR,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0013,-8.76643,120.67311,Borong,Desa contoh B,Sekolah,Beton bertulang,TR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0014,-8.77621,120.65515,Borong,Desa contoh C,Sekolah,Beton bertulang,RB,Verifikasi BNPB,2026-08-18,,DATA CONTOH
+B0015,-8.74924,120.69681,Borong,Desa contoh D,Fasilitas kesehatan,Kayu,RB,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0016,-8.78518,120.72431,Borong,Desa contoh E,Sekolah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0017,-8.76318,120.66716,Borong,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Foto UAV,2026-08-26,,DATA CONTOH
+B0018,-8.76983,120.61928,Borong,Desa contoh A,Sekolah,Kayu,TR,Foto UAV,2026-08-27,,DATA CONTOH
+B0019,-8.77998,120.68722,Borong,Desa contoh B,Kantor desa,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0020,-8.77962,120.64748,Borong,Desa contoh C,Rumah tinggal,Pasangan bata terkekang,TR,Verifikasi BNPB,2026-08-29,,DATA CONTOH
+B0021,-8.79169,120.68536,Borong,Desa contoh D,Rumah tinggal,Beton bertulang,TR,Foto UAV,2026-08-26,,DATA CONTOH
+B0022,-8.79989,120.68569,Borong,Desa contoh E,Rumah tinggal,Beton bertulang,TR,Verifikasi BNPB,2026-08-24,,DATA CONTOH
+B0023,-8.80918,120.64928,Borong,Desa contoh F,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0024,-8.76872,120.69067,Borong,Desa contoh A,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0025,-8.82137,120.71926,Borong,Desa contoh B,Sekolah,Beton bertulang,RS,Foto UAV,2026-08-30,,DATA CONTOH
+B0026,-8.77348,120.708,Borong,Desa contoh C,Sekolah,Beton bertulang,RS,Foto UAV,2026-08-29,,DATA CONTOH
+B0027,-8.80663,120.68818,Borong,Desa contoh D,Sekolah,Kayu,RR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0028,-8.78028,120.70713,Borong,Desa contoh E,Rumah ibadah,Beton bertulang,RR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0029,-8.7797,120.67127,Borong,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0030,-8.79482,120.66762,Borong,Desa contoh A,Rumah tinggal,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0031,-8.76059,120.69803,Borong,Desa contoh B,Rumah tinggal,Pasangan bata terkekang,RS,Verifikasi BNPB,2026-08-26,,DATA CONTOH
+B0032,-8.78048,120.64004,Borong,Desa contoh C,Sekolah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0033,-8.76522,120.6346,Borong,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0034,-8.76604,120.6545,Borong,Desa contoh E,Rumah ibadah,Pasangan bata terkekang,RR,Foto UAV,2026-08-26,,DATA CONTOH
+B0035,-8.78473,120.79215,Kota Komba,Desa contoh B,Fasilitas kesehatan,Beton bertulang,RR,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0036,-8.77825,120.82602,Kota Komba,Desa contoh C,Sekolah,Beton bertulang,TR,Verifikasi BNPB,2026-08-30,,DATA CONTOH
+B0037,-8.73184,120.79475,Kota Komba,Desa contoh D,Sekolah,Kayu,TR,Verifikasi BNPB,2026-08-29,,DATA CONTOH
+B0038,-8.78529,120.82212,Kota Komba,Desa contoh E,Rumah ibadah,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0039,-8.76024,120.83487,Kota Komba,Desa contoh F,Sekolah,Kayu,RR,Foto UAV,2026-08-26,,DATA CONTOH
+B0040,-8.74402,120.8248,Kota Komba,Desa contoh A,Kantor desa,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0041,-8.76863,120.78453,Kota Komba,Desa contoh B,Sekolah,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0042,-8.73269,120.80486,Kota Komba,Desa contoh C,Rumah ibadah,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0043,-8.75447,120.82299,Kota Komba,Desa contoh D,Rumah ibadah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0044,-8.74332,120.78528,Kota Komba,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0045,-8.77236,120.84096,Kota Komba,Desa contoh F,Sekolah,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0046,-8.77983,120.81084,Kota Komba,Desa contoh A,Fasilitas kesehatan,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0047,-8.76916,120.80998,Kota Komba,Desa contoh B,Kantor desa,Kayu,RR,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0048,-8.76839,120.78207,Kota Komba,Desa contoh C,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0049,-8.78366,120.8392,Kota Komba,Desa contoh D,Rumah tinggal,Kayu,RR,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0050,-8.76217,120.79251,Kota Komba,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0051,-8.74268,120.81424,Kota Komba,Desa contoh F,Rumah tinggal,Beton bertulang,TR,Foto UAV,2026-08-22,,DATA CONTOH
+B0052,-8.74195,120.8385,Kota Komba,Desa contoh A,Rumah tinggal,Kayu,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0053,-8.7632,120.80549,Kota Komba,Desa contoh B,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0054,-8.76881,120.80042,Kota Komba,Desa contoh C,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0055,-8.75566,120.76936,Kota Komba,Desa contoh D,Rumah tinggal,Pasangan bata terkekang,RR,Foto UAV,2026-08-24,,DATA CONTOH
+B0056,-8.74071,120.79577,Kota Komba,Desa contoh E,Fasilitas kesehatan,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0057,-8.76928,120.82195,Kota Komba,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-23,,DATA CONTOH
+B0058,-8.77974,120.8207,Kota Komba,Desa contoh A,Fasilitas kesehatan,Beton bertulang,TR,Verifikasi BNPB,2026-08-19,,DATA CONTOH
+B0059,-8.73684,120.8292,Kota Komba,Desa contoh B,Rumah ibadah,Beton bertulang,RR,Foto UAV,2026-08-20,,DATA CONTOH
+B0060,-8.7395,120.77798,Kota Komba,Desa contoh C,Rumah tinggal,Beton bertulang,RR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0061,-8.77659,120.83125,Kota Komba,Desa contoh D,Sekolah,Pasangan bata tanpa tulangan,RB,Verifikasi BNPB,2026-08-19,,DATA CONTOH
+B0062,-8.77046,120.79722,Kota Komba,Desa contoh E,Fasilitas kesehatan,Beton bertulang,RS,Foto UAV,2026-08-17,,DATA CONTOH
+B0063,-8.76604,120.79874,Kota Komba,Desa contoh F,Fasilitas kesehatan,Pasangan bata tanpa tulangan,TR,Foto UAV,2026-08-22,,DATA CONTOH
+B0064,-8.76462,120.82601,Kota Komba,Desa contoh A,Rumah tinggal,Kayu,RR,Verifikasi BNPB,2026-08-25,,DATA CONTOH
+B0065,-8.77111,120.81605,Kota Komba,Desa contoh B,Fasilitas kesehatan,Beton bertulang,TR,Verifikasi BNPB,2026-08-17,,DATA CONTOH
+B0066,-8.74493,120.80363,Kota Komba,Desa contoh C,Sekolah,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0067,-8.73648,120.827,Kota Komba,Desa contoh D,Rumah tinggal,Kayu,RB,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0068,-8.76746,120.85476,Kota Komba,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0069,-8.65669,120.75367,Kota Komba Utara,Desa contoh B,Kantor desa,Kayu,RB,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0070,-8.6765,120.7729,Kota Komba Utara,Desa contoh C,Fasilitas kesehatan,Pasangan bata terkekang,TR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0071,-8.6471,120.76819,Kota Komba Utara,Desa contoh D,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0072,-8.66391,120.78163,Kota Komba Utara,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,TR,Verifikasi BNPB,2026-08-25,,DATA CONTOH
+B0073,-8.6886,120.79384,Kota Komba Utara,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,RR,Foto UAV,2026-08-26,,DATA CONTOH
+B0074,-8.64789,120.78818,Kota Komba Utara,Desa contoh A,Rumah ibadah,Beton bertulang,RR,Verifikasi BNPB,2026-08-27,,DATA CONTOH
+B0075,-8.65824,120.77156,Kota Komba Utara,Desa contoh B,Sekolah,Beton bertulang,RB,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0076,-8.66472,120.77651,Kota Komba Utara,Desa contoh C,Kantor desa,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0077,-8.69911,120.80783,Kota Komba Utara,Desa contoh D,Rumah ibadah,Pasangan bata terkekang,RR,Foto UAV,2026-08-25,,DATA CONTOH
+B0078,-8.69051,120.76675,Kota Komba Utara,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0079,-8.69946,120.79471,Kota Komba Utara,Desa contoh F,Sekolah,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0080,-8.6371,120.79387,Kota Komba Utara,Desa contoh A,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0081,-8.65831,120.78569,Kota Komba Utara,Desa contoh B,Rumah tinggal,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0082,-8.68809,120.75751,Kota Komba Utara,Desa contoh C,Kantor desa,Pasangan bata tanpa tulangan,RR,Verifikasi BNPB,2026-08-19,,DATA CONTOH
+B0083,-8.67615,120.77843,Kota Komba Utara,Desa contoh D,Sekolah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0084,-8.71435,120.78053,Kota Komba Utara,Desa contoh E,Kantor desa,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0085,-8.61303,120.7904,Kota Komba Utara,Desa contoh F,Kantor desa,Beton bertulang,TR,Foto UAV,2026-08-30,,DATA CONTOH
+B0086,-8.67984,120.79429,Kota Komba Utara,Desa contoh A,Fasilitas kesehatan,Beton bertulang,RS,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0087,-8.68089,120.77915,Kota Komba Utara,Desa contoh B,Rumah tinggal,Kayu,RR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0088,-8.67901,120.79882,Kota Komba Utara,Desa contoh C,Kantor desa,Kayu,TR,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0089,-8.68901,120.80812,Kota Komba Utara,Desa contoh D,Fasilitas kesehatan,Beton bertulang,RR,Verifikasi BNPB,2026-08-30,,DATA CONTOH
+B0090,-8.70873,120.8207,Kota Komba Utara,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Verifikasi BNPB,2026-08-24,,DATA CONTOH
+B0091,-8.64831,120.75459,Kota Komba Utara,Desa contoh F,Sekolah,Kayu,RR,Foto UAV,2026-08-24,,DATA CONTOH
+B0092,-8.69332,120.79155,Kota Komba Utara,Desa contoh A,Rumah tinggal,Pasangan bata terkekang,RR,Verifikasi BNPB,2026-08-17,,DATA CONTOH
+B0093,-8.66688,120.7864,Kota Komba Utara,Desa contoh B,Fasilitas kesehatan,Beton bertulang,RB,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0094,-8.66052,120.77526,Kota Komba Utara,Desa contoh C,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Verifikasi BNPB,2026-08-17,,DATA CONTOH
+B0095,-8.67643,120.82092,Kota Komba Utara,Desa contoh D,Rumah ibadah,Pasangan bata tanpa tulangan,RB,Verifikasi BNPB,2026-08-24,,DATA CONTOH
+B0096,-8.66825,120.79466,Kota Komba Utara,Desa contoh E,Rumah tinggal,Beton bertulang,RS,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0097,-8.68459,120.79392,Kota Komba Utara,Desa contoh F,Rumah tinggal,Kayu,RB,Foto UAV,2026-08-26,,DATA CONTOH
+B0098,-8.68989,120.78486,Kota Komba Utara,Desa contoh A,Rumah tinggal,Beton bertulang,RR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0099,-8.66739,120.76658,Kota Komba Utara,Desa contoh B,Kantor desa,Kayu,RS,Verifikasi BNPB,2026-08-26,,DATA CONTOH
+B0100,-8.66094,120.8103,Kota Komba Utara,Desa contoh C,Rumah ibadah,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0101,-8.65034,120.79227,Kota Komba Utara,Desa contoh D,Kantor desa,Kayu,TR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0102,-8.63515,120.78759,Kota Komba Utara,Desa contoh E,Sekolah,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0103,-8.6179,120.59724,Rana Mese,Desa contoh B,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0104,-8.60084,120.6171,Rana Mese,Desa contoh C,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Foto UAV,2026-08-17,,DATA CONTOH
+B0105,-8.64709,120.5661,Rana Mese,Desa contoh D,Rumah tinggal,Beton bertulang,RS,Verifikasi BNPB,2026-08-18,,DATA CONTOH
+B0106,-8.63329,120.57677,Rana Mese,Desa contoh E,Rumah tinggal,Beton bertulang,RS,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0107,-8.63812,120.55145,Rana Mese,Desa contoh F,Kantor desa,Kayu,RB,Foto UAV,2026-08-27,,DATA CONTOH
+B0108,-8.66969,120.57417,Rana Mese,Desa contoh A,Rumah tinggal,Pasangan bata terkekang,RS,Foto UAV,2026-08-21,,DATA CONTOH
+B0109,-8.66331,120.60631,Rana Mese,Desa contoh B,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Foto UAV,2026-08-30,,DATA CONTOH
+B0110,-8.67166,120.57097,Rana Mese,Desa contoh C,Fasilitas kesehatan,Kayu,TR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0111,-8.66876,120.57426,Rana Mese,Desa contoh D,Rumah ibadah,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0112,-8.66189,120.53665,Rana Mese,Desa contoh E,Rumah tinggal,Beton bertulang,RR,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0113,-8.67615,120.54286,Rana Mese,Desa contoh F,Rumah tinggal,Kayu,TR,Verifikasi BNPB,2026-08-28,,DATA CONTOH
+B0114,-8.64901,120.56939,Rana Mese,Desa contoh A,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RB,Foto UAV,2026-08-18,,DATA CONTOH
+B0115,-8.65919,120.57203,Rana Mese,Desa contoh B,Rumah tinggal,Beton bertulang,TR,Verifikasi BNPB,2026-08-19,,DATA CONTOH
+B0116,-8.68262,120.56757,Rana Mese,Desa contoh C,Rumah tinggal,Kayu,RR,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0117,-8.62426,120.54939,Rana Mese,Desa contoh D,Fasilitas kesehatan,Pasangan bata terkekang,RR,Verifikasi BNPB,2026-08-24,,DATA CONTOH
+B0118,-8.66147,120.51899,Rana Mese,Desa contoh E,Rumah ibadah,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0119,-8.66441,120.55385,Rana Mese,Desa contoh F,Kantor desa,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-19,,DATA CONTOH
+B0120,-8.65508,120.56855,Rana Mese,Desa contoh A,Rumah ibadah,Beton bertulang,RS,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0121,-8.67472,120.51748,Rana Mese,Desa contoh B,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0122,-8.67151,120.5642,Rana Mese,Desa contoh C,Sekolah,Pasangan bata tanpa tulangan,TR,Foto UAV,2026-08-27,,DATA CONTOH
+B0123,-8.67156,120.54627,Rana Mese,Desa contoh D,Sekolah,Kayu,RB,Verifikasi BNPB,2026-08-25,,DATA CONTOH
+B0124,-8.66675,120.5907,Rana Mese,Desa contoh E,Sekolah,Pasangan bata terkekang,TR,Verifikasi BNPB,2026-08-29,,DATA CONTOH
+B0125,-8.65007,120.55643,Rana Mese,Desa contoh F,Rumah ibadah,Pasangan bata tanpa tulangan,TR,Foto UAV,2026-08-22,,DATA CONTOH
+B0126,-8.63118,120.58257,Rana Mese,Desa contoh A,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0127,-8.67679,120.54911,Rana Mese,Desa contoh B,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0128,-8.6577,120.5454,Rana Mese,Desa contoh C,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0129,-8.6583,120.56923,Rana Mese,Desa contoh D,Fasilitas kesehatan,Beton bertulang,TR,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0130,-8.62797,120.54311,Rana Mese,Desa contoh E,Fasilitas kesehatan,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0131,-8.65163,120.58572,Rana Mese,Desa contoh F,Kantor desa,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0132,-8.66906,120.59136,Rana Mese,Desa contoh A,Fasilitas kesehatan,Beton bertulang,TR,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0133,-8.65442,120.52903,Rana Mese,Desa contoh B,Rumah tinggal,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0134,-8.61812,120.56963,Rana Mese,Desa contoh C,Rumah tinggal,Pasangan bata terkekang,RB,Verifikasi BNPB,2026-08-29,,DATA CONTOH
+B0135,-8.69662,120.58396,Rana Mese,Desa contoh D,Kantor desa,Kayu,TR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0136,-8.68725,120.54759,Rana Mese,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Foto UAV,2026-08-21,,DATA CONTOH
+B0137,-8.57359,120.55351,Poco Ranaka,Desa contoh B,Sekolah,Pasangan bata tanpa tulangan,TR,Foto UAV,2026-08-19,,DATA CONTOH
+B0138,-8.59664,120.51646,Poco Ranaka,Desa contoh C,Sekolah,Kayu,TR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0139,-8.59476,120.54944,Poco Ranaka,Desa contoh D,Rumah tinggal,Pasangan bata terkekang,TR,Foto UAV,2026-08-27,,DATA CONTOH
+B0140,-8.60177,120.53865,Poco Ranaka,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,RR,Foto UAV,2026-08-29,,DATA CONTOH
+B0141,-8.60636,120.50586,Poco Ranaka,Desa contoh F,Kantor desa,Pasangan bata terkekang,TR,Verifikasi BNPB,2026-08-29,,DATA CONTOH
+B0142,-8.60062,120.51005,Poco Ranaka,Desa contoh A,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0143,-8.60321,120.52327,Poco Ranaka,Desa contoh B,Sekolah,Kayu,TR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0144,-8.56517,120.55694,Poco Ranaka,Desa contoh C,Rumah ibadah,Beton bertulang,RB,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0145,-8.59722,120.4971,Poco Ranaka,Desa contoh D,Kantor desa,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0146,-8.53196,120.50611,Poco Ranaka,Desa contoh E,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0147,-8.56485,120.47586,Poco Ranaka,Desa contoh F,Kantor desa,Pasangan bata terkekang,TR,Foto UAV,2026-08-20,,DATA CONTOH
+B0148,-8.55935,120.47815,Poco Ranaka,Desa contoh A,Rumah tinggal,Beton bertulang,RS,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0149,-8.5717,120.48873,Poco Ranaka,Desa contoh B,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0150,-8.57009,120.4957,Poco Ranaka,Desa contoh C,Fasilitas kesehatan,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0151,-8.54671,120.54427,Poco Ranaka,Desa contoh D,Kantor desa,Kayu,RS,Verifikasi BNPB,2026-08-23,,DATA CONTOH
+B0152,-8.5375,120.57008,Poco Ranaka,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0153,-8.57181,120.51408,Poco Ranaka,Desa contoh F,Rumah tinggal,Beton bertulang,TR,Verifikasi BNPB,2026-08-29,,DATA CONTOH
+B0154,-8.57746,120.51705,Poco Ranaka,Desa contoh A,Sekolah,Kayu,RS,Foto UAV,2026-08-21,,DATA CONTOH
+B0155,-8.59303,120.49599,Poco Ranaka,Desa contoh B,Fasilitas kesehatan,Kayu,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0156,-8.54067,120.55938,Poco Ranaka,Desa contoh C,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0157,-8.54918,120.51421,Poco Ranaka,Desa contoh D,Kantor desa,Kayu,RS,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0158,-8.53888,120.52453,Poco Ranaka,Desa contoh E,Rumah tinggal,Beton bertulang,TR,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0159,-8.52406,120.49994,Poco Ranaka,Desa contoh F,Sekolah,Beton bertulang,TR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0160,-8.60931,120.47482,Poco Ranaka,Desa contoh A,Rumah ibadah,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0161,-8.58822,120.52599,Poco Ranaka,Desa contoh B,Rumah ibadah,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0162,-8.56426,120.52021,Poco Ranaka,Desa contoh C,Fasilitas kesehatan,Beton bertulang,TR,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0163,-8.6164,120.4904,Poco Ranaka,Desa contoh D,Rumah ibadah,Beton bertulang,TR,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0164,-8.60222,120.57623,Poco Ranaka,Desa contoh E,Fasilitas kesehatan,Kayu,RB,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0165,-8.55439,120.54236,Poco Ranaka,Desa contoh F,Rumah ibadah,Kayu,TR,Verifikasi BNPB,2026-08-18,,DATA CONTOH
+B0166,-8.5793,120.54255,Poco Ranaka,Desa contoh A,Rumah tinggal,Beton bertulang,RS,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0167,-8.56603,120.58454,Poco Ranaka,Desa contoh B,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-19,,DATA CONTOH
+B0168,-8.58829,120.52244,Poco Ranaka,Desa contoh C,Kantor desa,Beton bertulang,RR,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0169,-8.55409,120.48128,Poco Ranaka,Desa contoh D,Fasilitas kesehatan,Pasangan bata terkekang,TR,Verifikasi BNPB,2026-08-28,,DATA CONTOH
+B0170,-8.57676,120.49568,Poco Ranaka,Desa contoh E,Rumah ibadah,Kayu,TR,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0171,-8.56112,120.61885,Poco Ranaka Timur,Desa contoh B,Sekolah,Beton bertulang,RS,Foto UAV,2026-08-30,,DATA CONTOH
+B0172,-8.62093,120.65572,Poco Ranaka Timur,Desa contoh C,Sekolah,Kayu,TR,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0173,-8.60302,120.64174,Poco Ranaka Timur,Desa contoh D,Kantor desa,Pasangan bata terkekang,TR,Foto UAV,2026-08-18,,DATA CONTOH
+B0174,-8.54555,120.65902,Poco Ranaka Timur,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0175,-8.61532,120.64035,Poco Ranaka Timur,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0176,-8.53554,120.61384,Poco Ranaka Timur,Desa contoh A,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Verifikasi BNPB,2026-08-29,,DATA CONTOH
+B0177,-8.56724,120.61968,Poco Ranaka Timur,Desa contoh B,Rumah tinggal,Kayu,RR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0178,-8.52408,120.62699,Poco Ranaka Timur,Desa contoh C,Rumah ibadah,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0179,-8.56753,120.57727,Poco Ranaka Timur,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Foto UAV,2026-08-20,,DATA CONTOH
+B0180,-8.56392,120.61338,Poco Ranaka Timur,Desa contoh E,Rumah tinggal,Kayu,RR,Verifikasi BNPB,2026-08-25,,DATA CONTOH
+B0181,-8.5723,120.64836,Poco Ranaka Timur,Desa contoh F,Kantor desa,Beton bertulang,RB,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0182,-8.57556,120.58387,Poco Ranaka Timur,Desa contoh A,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0183,-8.57393,120.55946,Poco Ranaka Timur,Desa contoh B,Rumah tinggal,Kayu,TR,Verifikasi BNPB,2026-08-19,,DATA CONTOH
+B0184,-8.59845,120.62657,Poco Ranaka Timur,Desa contoh C,Kantor desa,Beton bertulang,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0185,-8.57751,120.63314,Poco Ranaka Timur,Desa contoh D,Rumah tinggal,Beton bertulang,RB,Foto UAV,2026-08-17,,DATA CONTOH
+B0186,-8.57973,120.58986,Poco Ranaka Timur,Desa contoh E,Fasilitas kesehatan,Beton bertulang,RS,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0187,-8.54809,120.60438,Poco Ranaka Timur,Desa contoh F,Rumah tinggal,Kayu,TR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0188,-8.61204,120.58737,Poco Ranaka Timur,Desa contoh A,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0189,-8.57397,120.60819,Poco Ranaka Timur,Desa contoh B,Rumah tinggal,Pasangan bata terkekang,RR,Foto UAV,2026-08-17,,DATA CONTOH
+B0190,-8.58261,120.57421,Poco Ranaka Timur,Desa contoh C,Sekolah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0191,-8.53489,120.56838,Poco Ranaka Timur,Desa contoh D,Rumah tinggal,Pasangan bata terkekang,RR,Foto UAV,2026-08-20,,DATA CONTOH
+B0192,-8.57107,120.60969,Poco Ranaka Timur,Desa contoh E,Rumah tinggal,Beton bertulang,RB,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0193,-8.52982,120.61552,Poco Ranaka Timur,Desa contoh F,Rumah tinggal,Kayu,TR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0194,-8.61584,120.59445,Poco Ranaka Timur,Desa contoh A,Sekolah,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0195,-8.5819,120.61975,Poco Ranaka Timur,Desa contoh B,Rumah tinggal,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0196,-8.49399,120.63521,Poco Ranaka Timur,Desa contoh C,Fasilitas kesehatan,Kayu,RB,Verifikasi BNPB,2026-08-18,,DATA CONTOH
+B0197,-8.54737,120.60929,Poco Ranaka Timur,Desa contoh D,Rumah tinggal,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0198,-8.60869,120.60962,Poco Ranaka Timur,Desa contoh E,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0199,-8.56654,120.61487,Poco Ranaka Timur,Desa contoh F,Kantor desa,Kayu,TR,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0200,-8.54951,120.6192,Poco Ranaka Timur,Desa contoh A,Fasilitas kesehatan,Kayu,RS,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0201,-8.55014,120.64171,Poco Ranaka Timur,Desa contoh B,Rumah ibadah,Pasangan bata tanpa tulangan,RS,Verifikasi BNPB,2026-08-20,,DATA CONTOH
+B0202,-8.5571,120.619,Poco Ranaka Timur,Desa contoh C,Rumah ibadah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0203,-8.51975,120.63801,Poco Ranaka Timur,Desa contoh D,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0204,-8.57841,120.62625,Poco Ranaka Timur,Desa contoh E,Fasilitas kesehatan,Kayu,TR,Interpretasi citra,2026-08-19,,DATA CONTOH
+B0205,-8.50344,120.55387,Lamba Leda,Desa contoh B,Rumah ibadah,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0206,-8.43874,120.58486,Lamba Leda,Desa contoh C,Rumah tinggal,Kayu,TR,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0207,-8.43868,120.55498,Lamba Leda,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-17,,DATA CONTOH
+B0208,-8.44859,120.56452,Lamba Leda,Desa contoh E,Rumah ibadah,Kayu,RS,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0209,-8.46237,120.53669,Lamba Leda,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0210,-8.43318,120.51218,Lamba Leda,Desa contoh A,Kantor desa,Kayu,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0211,-8.49399,120.56244,Lamba Leda,Desa contoh B,Rumah tinggal,Beton bertulang,RS,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0212,-8.44609,120.54252,Lamba Leda,Desa contoh C,Fasilitas kesehatan,Beton bertulang,TR,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0213,-8.48022,120.54459,Lamba Leda,Desa contoh D,Rumah ibadah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0214,-8.44477,120.53891,Lamba Leda,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Foto UAV,2026-08-21,,DATA CONTOH
+B0215,-8.42888,120.54886,Lamba Leda,Desa contoh F,Fasilitas kesehatan,Kayu,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0216,-8.45504,120.55403,Lamba Leda,Desa contoh A,Rumah ibadah,Kayu,RR,Verifikasi BNPB,2026-08-26,,DATA CONTOH
+B0217,-8.42692,120.5021,Lamba Leda,Desa contoh B,Sekolah,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0218,-8.51019,120.55174,Lamba Leda,Desa contoh C,Rumah tinggal,Beton bertulang,TR,Foto UAV,2026-08-24,,DATA CONTOH
+B0219,-8.4405,120.57704,Lamba Leda,Desa contoh D,Kantor desa,Pasangan bata terkekang,RS,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0220,-8.46495,120.53809,Lamba Leda,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Foto UAV,2026-08-23,,DATA CONTOH
+B0221,-8.46318,120.60582,Lamba Leda,Desa contoh F,Kantor desa,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0222,-8.46403,120.55351,Lamba Leda,Desa contoh A,Rumah tinggal,Kayu,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0223,-8.44321,120.50895,Lamba Leda,Desa contoh B,Kantor desa,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0224,-8.43023,120.55741,Lamba Leda,Desa contoh C,Rumah tinggal,Kayu,TR,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0225,-8.47244,120.51933,Lamba Leda,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0226,-8.51249,120.55005,Lamba Leda,Desa contoh E,Kantor desa,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0227,-8.4362,120.56144,Lamba Leda,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,TR,Verifikasi BNPB,2026-08-20,,DATA CONTOH
+B0228,-8.43721,120.5805,Lamba Leda,Desa contoh A,Kantor desa,Beton bertulang,RR,Verifikasi BNPB,2026-08-20,,DATA CONTOH
+B0229,-8.44705,120.55863,Lamba Leda,Desa contoh B,Rumah tinggal,Kayu,TR,Verifikasi BNPB,2026-08-18,,DATA CONTOH
+B0230,-8.4732,120.56177,Lamba Leda,Desa contoh C,Sekolah,Pasangan bata terkekang,RR,Foto UAV,2026-08-27,,DATA CONTOH
+B0231,-8.51894,120.56718,Lamba Leda,Desa contoh D,Rumah tinggal,Kayu,RR,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0232,-8.45668,120.55825,Lamba Leda,Desa contoh E,Kantor desa,Beton bertulang,RB,Foto UAV,2026-08-26,,DATA CONTOH
+B0233,-8.42234,120.57826,Lamba Leda,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-28,,DATA CONTOH
+B0234,-8.45134,120.55233,Lamba Leda,Desa contoh A,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0235,-8.4368,120.5622,Lamba Leda,Desa contoh B,Rumah tinggal,Beton bertulang,RS,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0236,-8.46499,120.57169,Lamba Leda,Desa contoh C,Kantor desa,Kayu,RR,Foto UAV,2026-08-28,,DATA CONTOH
+B0237,-8.45808,120.54988,Lamba Leda,Desa contoh D,Sekolah,Beton bertulang,RR,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0238,-8.44076,120.54217,Lamba Leda,Desa contoh E,Sekolah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0239,-8.3755,120.56091,Lamba Leda Utara,Desa contoh B,Rumah tinggal,Kayu,RR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0240,-8.37742,120.57834,Lamba Leda Utara,Desa contoh C,Kantor desa,Kayu,TR,Verifikasi BNPB,2026-08-29,,DATA CONTOH
+B0241,-8.4055,120.56694,Lamba Leda Utara,Desa contoh D,Rumah tinggal,Pasangan bata terkekang,RR,Foto UAV,2026-08-18,,DATA CONTOH
+B0242,-8.37661,120.53387,Lamba Leda Utara,Desa contoh E,Rumah ibadah,Pasangan bata terkekang,RB,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0243,-8.3655,120.5627,Lamba Leda Utara,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0244,-8.39002,120.57732,Lamba Leda Utara,Desa contoh A,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0245,-8.40386,120.55792,Lamba Leda Utara,Desa contoh B,Rumah ibadah,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0246,-8.3847,120.57485,Lamba Leda Utara,Desa contoh C,Rumah tinggal,Beton bertulang,RR,Foto UAV,2026-08-26,,DATA CONTOH
+B0247,-8.31558,120.54618,Lamba Leda Utara,Desa contoh D,Rumah tinggal,Pasangan bata terkekang,TR,Foto UAV,2026-08-21,,DATA CONTOH
+B0248,-8.38341,120.591,Lamba Leda Utara,Desa contoh E,Sekolah,Kayu,RB,Foto UAV,2026-08-22,,DATA CONTOH
+B0249,-8.34792,120.5477,Lamba Leda Utara,Desa contoh F,Rumah ibadah,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0250,-8.35666,120.55869,Lamba Leda Utara,Desa contoh A,Kantor desa,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-17,,DATA CONTOH
+B0251,-8.39754,120.56454,Lamba Leda Utara,Desa contoh B,Kantor desa,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0252,-8.39885,120.60857,Lamba Leda Utara,Desa contoh C,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0253,-8.36634,120.6107,Lamba Leda Utara,Desa contoh D,Rumah tinggal,Beton bertulang,RS,Verifikasi BNPB,2026-08-24,,DATA CONTOH
+B0254,-8.40071,120.54999,Lamba Leda Utara,Desa contoh E,Kantor desa,Kayu,TR,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0255,-8.42348,120.57724,Lamba Leda Utara,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0256,-8.40791,120.60999,Lamba Leda Utara,Desa contoh A,Rumah tinggal,Kayu,RR,Verifikasi BNPB,2026-08-20,,DATA CONTOH
+B0257,-8.41026,120.59628,Lamba Leda Utara,Desa contoh B,Rumah tinggal,Kayu,TR,Foto UAV,2026-08-29,,DATA CONTOH
+B0258,-8.39388,120.52459,Lamba Leda Utara,Desa contoh C,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RB,Verifikasi BNPB,2026-08-28,,DATA CONTOH
+B0259,-8.36806,120.56404,Lamba Leda Utara,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-25,,DATA CONTOH
+B0260,-8.397,120.59236,Lamba Leda Utara,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Verifikasi BNPB,2026-08-27,,DATA CONTOH
+B0261,-8.37353,120.54625,Lamba Leda Utara,Desa contoh F,Kantor desa,Beton bertulang,TR,Verifikasi BNPB,2026-08-26,,DATA CONTOH
+B0262,-8.43015,120.5523,Lamba Leda Utara,Desa contoh A,Rumah tinggal,Beton bertulang,TR,Foto UAV,2026-08-25,,DATA CONTOH
+B0263,-8.40332,120.60453,Lamba Leda Utara,Desa contoh B,Rumah ibadah,Pasangan bata terkekang,RR,Verifikasi BNPB,2026-08-27,,DATA CONTOH
+B0264,-8.42768,120.60079,Lamba Leda Utara,Desa contoh C,Kantor desa,Beton bertulang,TR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0265,-8.38735,120.55204,Lamba Leda Utara,Desa contoh D,Sekolah,Pasangan bata terkekang,TR,Foto UAV,2026-08-18,,DATA CONTOH
+B0266,-8.39705,120.58805,Lamba Leda Utara,Desa contoh E,Rumah tinggal,Beton bertulang,TR,Verifikasi BNPB,2026-08-17,,DATA CONTOH
+B0267,-8.39086,120.58588,Lamba Leda Utara,Desa contoh F,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0268,-8.3893,120.58461,Lamba Leda Utara,Desa contoh A,Rumah tinggal,Beton bertulang,RS,Foto UAV,2026-08-24,,DATA CONTOH
+B0269,-8.3831,120.49618,Lamba Leda Utara,Desa contoh B,Rumah tinggal,Kayu,TR,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0270,-8.41497,120.59806,Lamba Leda Utara,Desa contoh C,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0271,-8.36662,120.60431,Lamba Leda Utara,Desa contoh D,Sekolah,Pasangan bata tanpa tulangan,RB,Verifikasi BNPB,2026-08-30,,DATA CONTOH
+B0272,-8.36575,120.56879,Lamba Leda Utara,Desa contoh E,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RS,Foto UAV,2026-08-23,,DATA CONTOH
+B0273,-8.45518,120.65538,Congkar,Desa contoh B,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0274,-8.41132,120.67981,Congkar,Desa contoh C,Rumah tinggal,Beton bertulang,RS,Foto UAV,2026-08-18,,DATA CONTOH
+B0275,-8.42487,120.70597,Congkar,Desa contoh D,Sekolah,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0276,-8.45674,120.75051,Congkar,Desa contoh E,Sekolah,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0277,-8.47278,120.70794,Congkar,Desa contoh F,Rumah tinggal,Kayu,TR,Verifikasi BNPB,2026-08-28,,DATA CONTOH
+B0278,-8.47475,120.67616,Congkar,Desa contoh A,Sekolah,Kayu,RR,Verifikasi BNPB,2026-08-25,,DATA CONTOH
+B0279,-8.45097,120.68875,Congkar,Desa contoh B,Rumah tinggal,Kayu,RB,Verifikasi BNPB,2026-08-27,,DATA CONTOH
+B0280,-8.44683,120.69202,Congkar,Desa contoh C,Kantor desa,Pasangan bata tanpa tulangan,RB,Foto UAV,2026-08-30,,DATA CONTOH
+B0281,-8.5182,120.63313,Congkar,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Foto UAV,2026-08-29,,DATA CONTOH
+B0282,-8.39473,120.69397,Congkar,Desa contoh E,Kantor desa,Pasangan bata terkekang,RS,Verifikasi BNPB,2026-08-23,,DATA CONTOH
+B0283,-8.4575,120.72285,Congkar,Desa contoh F,Rumah tinggal,Kayu,RS,Foto UAV,2026-08-18,,DATA CONTOH
+B0284,-8.46825,120.69387,Congkar,Desa contoh A,Rumah ibadah,Beton bertulang,TR,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0285,-8.42267,120.72348,Congkar,Desa contoh B,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Foto UAV,2026-08-28,,DATA CONTOH
+B0286,-8.47673,120.69589,Congkar,Desa contoh C,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0287,-8.47423,120.7056,Congkar,Desa contoh D,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0288,-8.43204,120.67801,Congkar,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,RS,Verifikasi BNPB,2026-08-25,,DATA CONTOH
+B0289,-8.49364,120.72267,Congkar,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,RR,Verifikasi BNPB,2026-08-26,,DATA CONTOH
+B0290,-8.48377,120.71935,Congkar,Desa contoh A,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0291,-8.49462,120.69783,Congkar,Desa contoh B,Rumah tinggal,Kayu,RR,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0292,-8.48876,120.70882,Congkar,Desa contoh C,Rumah tinggal,Pasangan bata terkekang,RS,Foto UAV,2026-08-25,,DATA CONTOH
+B0293,-8.46719,120.70061,Congkar,Desa contoh D,Rumah tinggal,Beton bertulang,RR,Foto UAV,2026-08-18,,DATA CONTOH
+B0294,-8.45008,120.68779,Congkar,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,TR,Foto UAV,2026-08-22,,DATA CONTOH
+B0295,-8.48257,120.69005,Congkar,Desa contoh F,Rumah tinggal,Kayu,RB,Foto UAV,2026-08-19,,DATA CONTOH
+B0296,-8.47487,120.67208,Congkar,Desa contoh A,Sekolah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0297,-8.44485,120.69502,Congkar,Desa contoh B,Rumah tinggal,Kayu,RS,Verifikasi BNPB,2026-08-28,,DATA CONTOH
+B0298,-8.46908,120.66764,Congkar,Desa contoh C,Sekolah,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0299,-8.46312,120.71107,Congkar,Desa contoh D,Rumah ibadah,Beton bertulang,RR,Foto UAV,2026-08-24,,DATA CONTOH
+B0300,-8.4612,120.74782,Congkar,Desa contoh E,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0301,-8.47862,120.64854,Congkar,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0302,-8.46441,120.73066,Congkar,Desa contoh A,Fasilitas kesehatan,Kayu,TR,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0303,-8.46736,120.72595,Congkar,Desa contoh B,Rumah tinggal,Kayu,TR,Foto UAV,2026-08-26,,DATA CONTOH
+B0304,-8.47824,120.70042,Congkar,Desa contoh C,Sekolah,Beton bertulang,RS,Foto UAV,2026-08-25,,DATA CONTOH
+B0305,-8.43668,120.70156,Congkar,Desa contoh D,Fasilitas kesehatan,Beton bertulang,RB,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0306,-8.42187,120.67907,Congkar,Desa contoh E,Rumah ibadah,Beton bertulang,RS,Foto UAV,2026-08-17,,DATA CONTOH
+B0307,-8.3502,120.79578,Sambi Rampas,Desa contoh B,Fasilitas kesehatan,Pasangan bata terkekang,RS,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0308,-8.35441,120.80687,Sambi Rampas,Desa contoh C,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Foto UAV,2026-08-21,,DATA CONTOH
+B0309,-8.41691,120.78343,Sambi Rampas,Desa contoh D,Rumah tinggal,Kayu,TR,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0310,-8.40218,120.79749,Sambi Rampas,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0311,-8.39055,120.72731,Sambi Rampas,Desa contoh F,Sekolah,Kayu,TR,Verifikasi BNPB,2026-08-20,,DATA CONTOH
+B0312,-8.37036,120.78279,Sambi Rampas,Desa contoh A,Rumah tinggal,Beton bertulang,RS,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0313,-8.41046,120.76742,Sambi Rampas,Desa contoh B,Rumah tinggal,Beton bertulang,RB,Foto UAV,2026-08-22,,DATA CONTOH
+B0314,-8.36803,120.77685,Sambi Rampas,Desa contoh C,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0315,-8.40564,120.75227,Sambi Rampas,Desa contoh D,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RR,Foto UAV,2026-08-30,,DATA CONTOH
+B0316,-8.3287,120.75994,Sambi Rampas,Desa contoh E,Rumah tinggal,Beton bertulang,RB,Foto UAV,2026-08-19,,DATA CONTOH
+B0317,-8.37138,120.75394,Sambi Rampas,Desa contoh F,Kantor desa,Beton bertulang,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0318,-8.40105,120.79791,Sambi Rampas,Desa contoh A,Kantor desa,Pasangan bata terkekang,RS,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0319,-8.38135,120.75984,Sambi Rampas,Desa contoh B,Fasilitas kesehatan,Beton bertulang,RR,Verifikasi BNPB,2026-08-26,,DATA CONTOH
+B0320,-8.38923,120.76496,Sambi Rampas,Desa contoh C,Rumah tinggal,Kayu,RS,Verifikasi BNPB,2026-08-24,,DATA CONTOH
+B0321,-8.35484,120.81283,Sambi Rampas,Desa contoh D,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0322,-8.37236,120.82501,Sambi Rampas,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,TR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0323,-8.40534,120.78507,Sambi Rampas,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0324,-8.38618,120.76775,Sambi Rampas,Desa contoh A,Rumah tinggal,Beton bertulang,RS,Verifikasi BNPB,2026-08-20,,DATA CONTOH
+B0325,-8.35246,120.7578,Sambi Rampas,Desa contoh B,Fasilitas kesehatan,Beton bertulang,RB,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0326,-8.37812,120.7655,Sambi Rampas,Desa contoh C,Fasilitas kesehatan,Kayu,RS,Foto UAV,2026-08-19,,DATA CONTOH
+B0327,-8.38327,120.79292,Sambi Rampas,Desa contoh D,Rumah tinggal,Beton bertulang,RR,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0328,-8.40471,120.79009,Sambi Rampas,Desa contoh E,Rumah ibadah,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0329,-8.40621,120.76135,Sambi Rampas,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0330,-8.38274,120.74821,Sambi Rampas,Desa contoh A,Rumah tinggal,Pasangan bata terkekang,RS,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0331,-8.36475,120.7375,Sambi Rampas,Desa contoh B,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0332,-8.36847,120.80037,Sambi Rampas,Desa contoh C,Rumah ibadah,Beton bertulang,RR,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0333,-8.40266,120.7728,Sambi Rampas,Desa contoh D,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0334,-8.37282,120.82953,Sambi Rampas,Desa contoh E,Rumah ibadah,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0335,-8.36882,120.77052,Sambi Rampas,Desa contoh F,Fasilitas kesehatan,Pasangan bata terkekang,RR,Foto UAV,2026-08-21,,DATA CONTOH
+B0336,-8.4053,120.75228,Sambi Rampas,Desa contoh A,Rumah tinggal,Kayu,RB,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0337,-8.36902,120.79107,Sambi Rampas,Desa contoh B,Kantor desa,Pasangan bata terkekang,RB,Verifikasi BNPB,2026-08-24,,DATA CONTOH
+B0338,-8.36172,120.79176,Sambi Rampas,Desa contoh C,Rumah tinggal,Beton bertulang,RB,Foto UAV,2026-08-19,,DATA CONTOH
+B0339,-8.41635,120.82425,Sambi Rampas,Desa contoh D,Rumah tinggal,Kayu,TR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0340,-8.3697,120.73421,Sambi Rampas,Desa contoh E,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0341,-8.45565,120.85156,Elar,Desa contoh B,Kantor desa,Kayu,RB,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0342,-8.44256,120.81948,Elar,Desa contoh C,Rumah tinggal,Beton bertulang,TR,Foto UAV,2026-08-23,,DATA CONTOH
+B0343,-8.42227,120.90572,Elar,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0344,-8.44546,120.80827,Elar,Desa contoh E,Rumah tinggal,Kayu,RR,Verifikasi BNPB,2026-08-23,,DATA CONTOH
+B0345,-8.43276,120.85295,Elar,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,RS,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0346,-8.46414,120.90801,Elar,Desa contoh A,Kantor desa,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0347,-8.40706,120.8975,Elar,Desa contoh B,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Foto UAV,2026-08-18,,DATA CONTOH
+B0348,-8.47752,120.80397,Elar,Desa contoh C,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Verifikasi BNPB,2026-08-18,,DATA CONTOH
+B0349,-8.44841,120.87756,Elar,Desa contoh D,Sekolah,Pasangan bata terkekang,RS,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0350,-8.43817,120.85259,Elar,Desa contoh E,Rumah ibadah,Beton bertulang,RR,Foto UAV,2026-08-19,,DATA CONTOH
+B0351,-8.41804,120.91756,Elar,Desa contoh F,Rumah ibadah,Beton bertulang,TR,Foto UAV,2026-08-18,,DATA CONTOH
+B0352,-8.40797,120.85589,Elar,Desa contoh A,Rumah tinggal,Pasangan bata terkekang,RS,Verifikasi BNPB,2026-08-19,,DATA CONTOH
+B0353,-8.45367,120.92098,Elar,Desa contoh B,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RB,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0354,-8.41641,120.87619,Elar,Desa contoh C,Fasilitas kesehatan,Pasangan bata tanpa tulangan,RR,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0355,-8.42104,120.80716,Elar,Desa contoh D,Rumah tinggal,Beton bertulang,RB,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0356,-8.46645,120.8771,Elar,Desa contoh E,Sekolah,Kayu,RR,Verifikasi BNPB,2026-08-24,,DATA CONTOH
+B0357,-8.43737,120.91084,Elar,Desa contoh F,Sekolah,Pasangan bata tanpa tulangan,RS,Verifikasi BNPB,2026-08-26,,DATA CONTOH
+B0358,-8.42137,120.87599,Elar,Desa contoh A,Rumah tinggal,Beton bertulang,RB,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0359,-8.4727,120.88222,Elar,Desa contoh B,Rumah tinggal,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-29,,DATA CONTOH
+B0360,-8.41709,120.91465,Elar,Desa contoh C,Rumah tinggal,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0361,-8.45371,120.87479,Elar,Desa contoh D,Rumah ibadah,Pasangan bata tanpa tulangan,TR,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0362,-8.44968,120.85071,Elar,Desa contoh E,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0363,-8.44502,120.89718,Elar,Desa contoh F,Fasilitas kesehatan,Beton bertulang,RS,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0364,-8.44737,120.89318,Elar,Desa contoh A,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-18,,DATA CONTOH
+B0365,-8.44468,120.91884,Elar,Desa contoh B,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0366,-8.45958,120.886,Elar,Desa contoh C,Rumah tinggal,Kayu,TR,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0367,-8.43137,120.88916,Elar,Desa contoh D,Rumah ibadah,Pasangan bata terkekang,RS,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0368,-8.47005,120.85481,Elar,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-20,,DATA CONTOH
+B0369,-8.45247,120.86445,Elar,Desa contoh F,Sekolah,Kayu,RS,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0370,-8.46746,120.83289,Elar,Desa contoh A,Rumah tinggal,Beton bertulang,RB,Foto UAV,2026-08-29,,DATA CONTOH
+B0371,-8.45355,120.88687,Elar,Desa contoh B,Kantor desa,Pasangan bata terkekang,RR,Foto UAV,2026-08-27,,DATA CONTOH
+B0372,-8.46197,120.84019,Elar,Desa contoh C,Rumah tinggal,Beton bertulang,RR,Verifikasi BNPB,2026-08-23,,DATA CONTOH
+B0373,-8.4022,120.85432,Elar,Desa contoh D,Rumah tinggal,Pasangan bata terkekang,RR,Foto UAV,2026-08-22,,DATA CONTOH
+B0374,-8.43186,120.8746,Elar,Desa contoh E,Rumah tinggal,Kayu,RB,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0375,-8.60749,120.88884,Elar Selatan,Desa contoh B,Fasilitas kesehatan,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-24,,DATA CONTOH
+B0376,-8.61423,120.8874,Elar Selatan,Desa contoh C,Sekolah,Kayu,RR,Verifikasi BNPB,2026-08-18,,DATA CONTOH
+B0377,-8.58538,120.86485,Elar Selatan,Desa contoh D,Rumah tinggal,Kayu,RS,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0378,-8.60498,120.88979,Elar Selatan,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0379,-8.62161,120.85166,Elar Selatan,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Foto UAV,2026-08-30,,DATA CONTOH
+B0380,-8.59678,120.91182,Elar Selatan,Desa contoh A,Rumah tinggal,Beton bertulang,RS,Verifikasi BNPB,2026-08-28,,DATA CONTOH
+B0381,-8.60762,120.9087,Elar Selatan,Desa contoh B,Kantor desa,Kayu,RS,Foto UAV,2026-08-24,,DATA CONTOH
+B0382,-8.61446,120.88231,Elar Selatan,Desa contoh C,Rumah tinggal,Beton bertulang,RS,Verifikasi BNPB,2026-08-18,,DATA CONTOH
+B0383,-8.60737,120.86979,Elar Selatan,Desa contoh D,Kantor desa,Pasangan bata terkekang,RR,Interpretasi citra,2026-08-25,,DATA CONTOH
+B0384,-8.62221,120.90535,Elar Selatan,Desa contoh E,Kantor desa,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0385,-8.63328,120.89652,Elar Selatan,Desa contoh F,Rumah tinggal,Pasangan bata terkekang,RS,Foto UAV,2026-08-30,,DATA CONTOH
+B0386,-8.59587,120.91079,Elar Selatan,Desa contoh A,Rumah tinggal,Beton bertulang,TR,Interpretasi citra,2026-08-28,,DATA CONTOH
+B0387,-8.60742,120.90315,Elar Selatan,Desa contoh B,Rumah ibadah,Beton bertulang,RB,Interpretasi citra,2026-08-17,,DATA CONTOH
+B0388,-8.59004,120.86228,Elar Selatan,Desa contoh C,Sekolah,Beton bertulang,RR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0389,-8.63143,120.84236,Elar Selatan,Desa contoh D,Rumah ibadah,Pasangan bata tanpa tulangan,RR,Verifikasi BNPB,2026-08-26,,DATA CONTOH
+B0390,-8.53976,120.85515,Elar Selatan,Desa contoh E,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Foto UAV,2026-08-26,,DATA CONTOH
+B0391,-8.61029,120.87005,Elar Selatan,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,RB,Foto UAV,2026-08-24,,DATA CONTOH
+B0392,-8.56928,120.8624,Elar Selatan,Desa contoh A,Kantor desa,Pasangan bata tanpa tulangan,RB,Interpretasi citra,2026-08-21,,DATA CONTOH
+B0393,-8.62328,120.90017,Elar Selatan,Desa contoh B,Rumah ibadah,Beton bertulang,RR,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0394,-8.5969,120.88169,Elar Selatan,Desa contoh C,Rumah tinggal,Pasangan bata terkekang,TR,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0395,-8.60609,120.84902,Elar Selatan,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,RR,Foto UAV,2026-08-18,,DATA CONTOH
+B0396,-8.63426,120.84403,Elar Selatan,Desa contoh E,Kantor desa,Beton bertulang,RS,Verifikasi BNPB,2026-08-28,,DATA CONTOH
+B0397,-8.61048,120.85181,Elar Selatan,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,TR,Verifikasi BNPB,2026-08-20,,DATA CONTOH
+B0398,-8.60254,120.87194,Elar Selatan,Desa contoh A,Kantor desa,Beton bertulang,TR,Interpretasi citra,2026-08-23,,DATA CONTOH
+B0399,-8.62425,120.86903,Elar Selatan,Desa contoh B,Sekolah,Kayu,RB,Foto UAV,2026-08-20,,DATA CONTOH
+B0400,-8.61273,120.8412,Elar Selatan,Desa contoh C,Rumah ibadah,Pasangan bata tanpa tulangan,RR,Foto UAV,2026-08-30,,DATA CONTOH
+B0401,-8.61083,120.86674,Elar Selatan,Desa contoh D,Kantor desa,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0402,-8.63771,120.86805,Elar Selatan,Desa contoh E,Rumah tinggal,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-30,,DATA CONTOH
+B0403,-8.59488,120.86922,Elar Selatan,Desa contoh F,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Interpretasi citra,2026-08-27,,DATA CONTOH
+B0404,-8.64262,120.8784,Elar Selatan,Desa contoh A,Rumah tinggal,Pasangan bata terkekang,RB,Interpretasi citra,2026-08-22,,DATA CONTOH
+B0405,-8.59874,120.84966,Elar Selatan,Desa contoh B,Rumah tinggal,Beton bertulang,RR,Interpretasi citra,2026-08-26,,DATA CONTOH
+B0406,-8.61675,120.90629,Elar Selatan,Desa contoh C,Rumah tinggal,Kayu,RR,Verifikasi BNPB,2026-08-22,,DATA CONTOH
+B0407,-8.56626,120.87068,Elar Selatan,Desa contoh D,Rumah tinggal,Pasangan bata tanpa tulangan,RS,Verifikasi BNPB,2026-08-21,,DATA CONTOH
+B0408,-8.60947,120.85143,Elar Selatan,Desa contoh E,Rumah tinggal,Beton bertulang,RB,Verifikasi BNPB,2026-08-17,,DATA CONTOH
