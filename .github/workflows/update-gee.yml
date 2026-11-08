@@ -3,7 +3,7 @@ name: Perbarui data GEE
 on:
   workflow_dispatch:            # tombol "Run workflow" manual
   schedule:
-    - cron: "0 22 * * *"        # otomatis tiap Senin 06:00 WIB (Minggu 23:00 UTC)
+    - cron: "17 */6 * * *"        # otomatis tiap Senin 06:00 WIB (Minggu 23:00 UTC)
 
 permissions:
   contents: write               # izin commit hasil ke repo
