@@ -1,0 +1,96 @@
+{
+ "contoh": true,
+ "diperbarui": "2026-11-08T00:00:00Z",
+ "metode": {
+  "sebelum": "2026-05-01/2026-08-14",
+  "sesudah": "2026-08-16/terbaru",
+  "ambang_dndvi": -0.15,
+  "ambang_sar_db": 3
+ },
+ "kecamatan": [
+  {
+   "kecamatan": "Borong",
+   "luas_ha": 17711,
+   "ha_vegetasi_turun": 363,
+   "ha_sar_berubah": 116,
+   "mean_dndvi": -0.032
+  },
+  {
+   "kecamatan": "Lamba Leda Selatan",
+   "luas_ha": 12148,
+   "ha_vegetasi_turun": 74,
+   "ha_sar_berubah": 280,
+   "mean_dndvi": -0.005
+  },
+  {
+   "kecamatan": "Lamba Leda",
+   "luas_ha": 11833,
+   "ha_vegetasi_turun": 208,
+   "ha_sar_berubah": 218,
+   "mean_dndvi": -0.034
+  },
+  {
+   "kecamatan": "Sambi Rampas",
+   "luas_ha": 27711,
+   "ha_vegetasi_turun": 706,
+   "ha_sar_berubah": 373,
+   "mean_dndvi": -0.021
+  },
+  {
+   "kecamatan": "Elar",
+   "luas_ha": 27981,
+   "ha_vegetasi_turun": 614,
+   "ha_sar_berubah": 454,
+   "mean_dndvi": -0.02
+  },
+  {
+   "kecamatan": "Kota Komba",
+   "luas_ha": 35518,
+   "ha_vegetasi_turun": 353,
+   "ha_sar_berubah": 1029,
+   "mean_dndvi": -0.046
+  },
+  {
+   "kecamatan": "Rana Mese",
+   "luas_ha": 20922,
+   "ha_vegetasi_turun": 319,
+   "ha_sar_berubah": 195,
+   "mean_dndvi": -0.034
+  },
+  {
+   "kecamatan": "Lamba Leda Timur",
+   "luas_ha": 10429,
+   "ha_vegetasi_turun": 136,
+   "ha_sar_berubah": 116,
+   "mean_dndvi": -0.022
+  },
+  {
+   "kecamatan": "Elar Selatan",
+   "luas_ha": 23343,
+   "ha_vegetasi_turun": 370,
+   "ha_sar_berubah": 259,
+   "mean_dndvi": -0.037
+  },
+  {
+   "kecamatan": "Kota Komba Utara",
+   "luas_ha": 15528,
+   "ha_vegetasi_turun": 184,
+   "ha_sar_berubah": 318,
+   "mean_dndvi": -0.046
+  },
+  {
+   "kecamatan": "Lamba Leda Utara",
+   "luas_ha": 27569,
+   "ha_vegetasi_turun": 382,
+   "ha_sar_berubah": 365,
+   "mean_dndvi": -0.034
+  },
+  {
+   "kecamatan": "Congkar",
+   "luas_ha": 8145,
+   "ha_vegetasi_turun": 192,
+   "ha_sar_berubah": 148,
+   "mean_dndvi": -0.045
+  }
+ ]
+}

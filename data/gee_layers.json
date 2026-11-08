@@ -1,0 +1,43 @@
+{
+ "contoh": true,
+ "diperbarui": "",
+ "catatan": "Diisi otomatis oleh GitHub Actions (gee/update_gee.py) atau manual. URL kosong = layer belum tersedia.",
+ "pasangan": [
+  {
+   "id": "s2_rgb",
+   "nama": "Sentinel-2 warna asli",
+   "sebelum": {
+    "url": "",
+    "label": "Sebelum: median Mei\u201314 Agu 2026"
+   },
+   "sesudah": {
+    "url": "",
+    "label": "Sesudah: median 16 Agu 2026\u2013terbaru"
+   }
+  },
+  {
+   "id": "ndvi",
+   "nama": "NDVI (kehijauan vegetasi)",
+   "sebelum": {
+    "url": "",
+    "label": "NDVI sebelum"
+   },
+   "sesudah": {
+    "url": "",
+    "label": "NDVI sesudah"
+   }
+  }
+ ],
+ "tunggal": [
+  {
+   "id": "dndvi",
+   "nama": "Selisih NDVI (merah = vegetasi berkurang)",
+   "url": ""
+  },
+  {
+   "id": "s1_logratio",
+   "nama": "Perubahan backscatter Sentinel-1 (dB)",
+   "url": ""
+  }
+ ]
+}
